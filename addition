@@ -2,3 +2,6 @@ int x;
 int y;
 int z=x+y;
 int l=x-y;
+
+now multiply two no
+z=x*y;
