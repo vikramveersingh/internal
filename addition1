@@ -1,0 +1,3 @@
+int x,y,z;
+int l=x+y+z;
+int k=x*y*z;
